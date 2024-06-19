@@ -1,5 +1,5 @@
 
-# Breast Cancer Dataset Advanced Analysis
+# Breast Cancer Dataset Comprehensive Analysis
 
 This repository contains a comprehensive analysis of the Breast Cancer dataset. The dataset includes information on patients diagnosed with breast cancer, with attributes such as tumor size, type, location, and clinical outcomes. The analysis includes data cleaning, exploratory data analysis (EDA), feature engineering, model development, and model evaluation.
 
